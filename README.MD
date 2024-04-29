@@ -4,4 +4,4 @@
 
 
 Cursos realizados :
-- 1-Desenvolvendo React com JavaScript
+1-Desenvolvendo React com JavaScript
